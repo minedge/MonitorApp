@@ -1,0 +1,10 @@
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\bin\Debug\Project_Main.exe.config
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\bin\Debug\Project_Main.exe
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\bin\Debug\Project_Main.pdb
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.csprojAssemblyReference.cache
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.Form1.resources
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.Properties.Resources.resources
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.csproj.GenerateResource.cache
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.csproj.CoreCompileInputs.cache
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.exe
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.pdb
